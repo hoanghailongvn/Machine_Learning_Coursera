@@ -13,12 +13,12 @@ Artificial Data:\
 ![image](https://user-images.githubusercontent.com/55611051/118221184-4f6cca80-b4a7-11eb-9d3e-7d6894240194.png)\
 Discussion on getting more data:
 -	Make sure you have a low bias classifier. If not, keep increase the number of features/ number of hidden units in neural network until you have a low bias classifier\
--	10x data?:
+-	10x data?:\
 o	Artificial data synthesis\
 o	Collect/label it yourself\
 o	“Crowd source” (E.g. Amazon Mechanical Turk)
 \
-Ceiling Analysis:
+Ceiling Analysis:\
 ![image](https://user-images.githubusercontent.com/55611051/118221365-a8d4f980-b4a7-11eb-91b3-29810fa94205.png)\
 -85% means the current overall system has 85% accuracy.\
 -if we change the output of the preprocess component with the ground truth label, overall system accuracy up from 85% to 85.1% (increase 0.1%).\
