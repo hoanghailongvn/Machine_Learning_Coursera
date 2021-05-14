@@ -17,7 +17,7 @@ Discussion on getting more data:
 o	Artificial data synthesis\
 o	Collect/label it yourself\
 o	“Crowd source” (E.g. Amazon Mechanical Turk)
-\
+\\
 Ceiling Analysis:\
 ![image](https://user-images.githubusercontent.com/55611051/118221365-a8d4f980-b4a7-11eb-91b3-29810fa94205.png)\
 -85% means the current overall system has 85% accuracy.\
