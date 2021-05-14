@@ -11,9 +11,9 @@ Artificial Data:\
 ![image](https://user-images.githubusercontent.com/55611051/118221167-4aa81680-b4a7-11eb-8506-e1860d9f86f3.png)\
 (or audio)\
 ![image](https://user-images.githubusercontent.com/55611051/118221184-4f6cca80-b4a7-11eb-9d3e-7d6894240194.png)\
-Discussion on getting more data:\
+Discussion on getting more data:
 -	Make sure you have a low bias classifier. If not, keep increase the number of features/ number of hidden units in neural network until you have a low bias classifier\
--	10x data?:\
+-	10x data?:
 o	Artificial data synthesis\
 o	Collect/label it yourself\
-o	“Crowd source” (E.g. Amazon Mechanical Turk)\
+o	“Crowd source” (E.g. Amazon Mechanical Turk)
